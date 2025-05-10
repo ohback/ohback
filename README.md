@@ -23,7 +23,7 @@
 
 
 
-<img src="https://github.com/ohback/ohback/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ohback/ohback/output/dist/github-snake-dark.svg" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,20:0000FF,40:00FF00,60:FFFF00,80:FF7F00,100:FF0000&height=150&section=footer&text=&fontSize=0" width="100%" style="transform: rotate(180deg);"/>
 
